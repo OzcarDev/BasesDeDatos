@@ -15,7 +15,6 @@
     - Pequeña biografía
     - Pelicula/Director **__FK__**
     - Mi película favorita de el
-    - Año de debut
     
 - Género
     - Nombre **__PK__**
