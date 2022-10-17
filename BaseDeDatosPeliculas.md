@@ -8,7 +8,6 @@
     - Director **__FK__**
     - Fecha de estreno
     - Género **__FK__**
-    - Sinopsis
     - Mi calificación
 
 - Director
