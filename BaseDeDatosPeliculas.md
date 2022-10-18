@@ -3,30 +3,22 @@
 ## Entidades
 
 - Película
-     - Título **__PK__**
+    - pelicula_id **__PK__**
+    - Título 
     - Guionista 
-    - Director **__FK__**
     - Fecha de estreno
     - Género **__FK__**
-    - Mi calificación
+    - Calificación
 
 - Director
+    - director_id
     - Nombre **__PK__**
-    - Pequeña biografía
-    - Pelicula/Director **__FK__**
-    - Mi película favorita de el
-    
+    - Biografía 
+
 - Género
     - Nombre **__PK__**
     - Descripción
-    - Género/Pelicula **__FK__**
-
-- Género/Pelicula
-    - ID **__PK__**
-    - Película **__FK__**
-    - Género **__FK__**
-
-
+    
 - Pelicula/Director
      - ID **__PK__**
      - Película **__FK__**
