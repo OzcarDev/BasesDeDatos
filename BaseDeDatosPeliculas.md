@@ -11,15 +11,16 @@
     - Calificación
 
 - Director
-    - director_id
-    - Nombre **__PK__**
+    - director_id  **__PK__**
+    - Nombre
     - Biografía 
 
 - Género
-    - Nombre **__PK__**
+    - genero_id  **__PK__**
+    - Nombre 
     - Descripción
-    
+
 - Pelicula/Director
-     - ID **__PK__**
+     - id_p/d **__PK__**
      - Película **__FK__**
      - Director **__FK__**
