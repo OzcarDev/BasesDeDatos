@@ -25,6 +25,8 @@
      - Película **__FK__**
      - Director **__FK__**
 
-- Relaciones
+
+## Relaciones
     1. Una película pertenece a género (1-M)
     1. Una película tiene un director (1-1)
+    1. Un director poseé película (1-M) 
