@@ -31,6 +31,6 @@
     1. Una película tiene un director (1-1)
     1. Un director poseé película (1-M) 
 
-## Tabla
+## Modelo Relacional de BASE DE DATOS
 
-![Imagen](https://media.discordapp.net/attachments/889289823855194132/1034479462248624189/MiDiagrama.jpg)
+![Imagen](https://media.discordapp.net/attachments/889289823855194132/1034481946732015719/MiDiagrama.jpg)
