@@ -12,4 +12,6 @@
 
 - [Práctica 2](./BaseDeDatosPeliculas.md)
 
-- [Práctica 3](https://docs.google.com/spreadsheets/d/1zFgk3znXflQHkMCE2RKB6PdAb1MkSDoE6A0Tfi1Fg4I/edit?usp=sharing)
+- [Tabla de Excel](https://docs.google.com/spreadsheets/d/1zFgk3znXflQHkMCE2RKB6PdAb1MkSDoE6A0Tfi1Fg4I/edit?usp=sharing)
+
+- [Práctica 6](./BaseDeDatosPeliculas.md)
