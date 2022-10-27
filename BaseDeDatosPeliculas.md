@@ -33,4 +33,4 @@
 
 ## Modelo Relacional de BASE DE DATOS
 
-![Imagen](https://media.discordapp.net/attachments/889289823855194132/1034481946732015719/MiDiagrama.jpg)
+![Imagen](https://media.discordapp.net/attachments/845392998648119356/1035210650500210688/Diagrama.jpg)
